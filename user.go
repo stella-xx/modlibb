@@ -1,6 +1,6 @@
 package modlibb
 
-import "github.com/stella-xx/modlib/lib"
+import "github.com/stella-xx/modlib/v3/lib"
 
 func Read() {
 	user := lib.NewUser("Eva")
